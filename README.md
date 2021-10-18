@@ -1,5 +1,5 @@
 # Netflix-Clone-Django-React
-View live on : https://fsd-netflix-clone.netlify.app/
+View live on : https://alakeshnetflix.netlify.app/
 ## Backend <br>
 Complete Backend for Netflix_Clone consisting of User Authentication using JWT in app user, custom permissions, custom pagination, CRUD operationality and a complete documentation of APIs built using Swagger and Re-Doc including deployment on Heroku and using Cloudinary for cloud storage(Media). 
 
